@@ -2,6 +2,6 @@
 
 ### Temas dados en el curso.
 
-- Layout Responsivos
-- Flexbox
-- Arquitectura CSS
+- JS en la Web: Manipulación del DOM con JavaScript
+
+- JS en la Web: Validación de Formularios y HTML5
