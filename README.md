@@ -1,7 +1,5 @@
 # Front-End_alura
 
-### Temas dados en el curso.
+### Temas dado en el curso.
 
-- Layout Responsivos
-- Flexbox
-- Arquitectura CSS
+-  JS en la Web: Manipulación del DOM con JavaScript
