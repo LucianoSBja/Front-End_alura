@@ -7,3 +7,5 @@
 - JS en la Web: Validación de Formularios y HTML5
 
 - JS en la Web: Introduccion a la Orientacion a Objeto.
+
+- JavaScript: Herencia e Interfaces en Orientación a Objetos
