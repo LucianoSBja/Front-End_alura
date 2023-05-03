@@ -6,4 +6,4 @@
 
 - JS en la Web: Validación de Formularios y HTML5
 
--JS en la Web: Introduccion a la Orientacion a Objeto.
+- JS en la Web: Introduccion a la Orientacion a Objeto.
